@@ -1,4 +1,4 @@
-module dff(clk,reset,d,q);
+module dff (clk,reset,d,q);
 input clk,reset,d;
 output reg q;
 
