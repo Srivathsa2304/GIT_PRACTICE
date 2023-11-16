@@ -1,3 +1,3 @@
 module love;
-
+  $display("");
 endmodule
